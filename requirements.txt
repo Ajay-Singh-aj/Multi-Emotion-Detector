@@ -1,0 +1,13 @@
+streamlit==1.26.0
+fastapi
+uvicorn
+torch
+transformers
+librosa
+soundfile
+numpy
+Pillow
+opencv-python
+fer
+ffmpeg-python
+pyngrok
