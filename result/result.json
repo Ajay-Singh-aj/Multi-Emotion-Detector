@@ -1,0 +1,34 @@
+{
+  "modalities": {
+    "face": {
+      "happy": 0.0,
+      "sad": 0.22999999977,
+      "angry": 0.10999999988999999,
+      "surprise": 0.00999999999,
+      "fear": 0.24999999974999998,
+      "disgust": 0.00999999999,
+      "neutral": 0.38999999961
+    },
+    "audio": null,
+    "text": null
+  },
+  "fusion": {
+    "fused": {
+      "happy": 0.0,
+      "sad": 0.22999999977000002,
+      "angry": 0.10999999989,
+      "surprise": 0.00999999999,
+      "fear": 0.24999999975,
+      "disgust": 0.00999999999,
+      "neutral": 0.38999999961
+    },
+    "final_label": "neutral",
+    "confidence": 0.3899999984957142,
+    "modalities": {
+      "face": 0.38999999961
+    },
+    "weights_used": {
+      "face": 0.999999997142857
+    }
+  }
+}
